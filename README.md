@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hello Humans!
+
+My name is Dominic Manola. I am currently completing a tutorial!
